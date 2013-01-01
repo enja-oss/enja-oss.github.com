@@ -1,0 +1,9 @@
+[submodule "_repos/underscore/master"]
+	path = _repos/underscore/master
+	url = git://github.com/enja-oss/Underscore.git
+[submodule "_repos/backbone/master"]
+	path = _repos/backbone/master
+	url = git://github.com/enja-oss/Backbone.git
+[submodule "_repos/backbone/1.0"]
+	path = _repos/backbone/1.0
+	url = git://github.com/enja-oss/Backbone.git

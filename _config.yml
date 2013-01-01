@@ -1,0 +1,15 @@
+title: enja-oss
+description: Welcome to enja-oss page.
+
+paths:
+  repo:   https://github.com/enja-oss/enja-oss.github.com
+  issues: https://github.com/enja-oss/enja-oss.github.com/issues
+
+auto: true
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+markdown: kramdown
+#permalink: /:title
